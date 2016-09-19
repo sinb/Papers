@@ -14,3 +14,12 @@ This repo stores some of the paper I've read or to be read.
 - [ ] **Exploiting Term Importance Categories and Dependency Relations for Natural Language Search**, [ACL ID W10-3902](https://www.aclweb.org/anthology/W10-3902)
 
 > Term importance analysis in searching using natural language.
+
+## TV Program Recommender System
+- [ ] [Collaborative Filtering for Implicit Feedback Datasets](file/Collaborative Filtering for Implicit Feedback Datasets.pdf)
+
+> CF algorithm for implicit dataset
+
+- [ ] [A TV program recommender framework](file/A TV program recommender framework.pdf)
+
+> paper.
